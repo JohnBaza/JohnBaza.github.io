@@ -48,3 +48,15 @@ li a:hover:not(.active) {
 p {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+#body4{
+  background-color: palevioletred
+}
+
+#body5{
+  background-color: orangered
+}
+
+#body6{
+  background-color: gainsboro
+}
