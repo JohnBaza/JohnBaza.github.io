@@ -1,4 +1,6 @@
 
+body {background-image:url("/afbeeldingen/istockphoto-1148508460-170667a (1).jpg");}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -48,5 +50,4 @@ footer {
   bottom: 0;
 }
 
-body {background-image:url("/afbeeldingen/istockphoto-1148508460-170667a (1).jpg");}
 
