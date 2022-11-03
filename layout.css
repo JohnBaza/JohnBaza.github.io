@@ -1,5 +1,5 @@
 
-body {background-image:url("/afbeeldingen/istockphoto-1148508460-170667a (1).jpg");}
+body{background-color: lightskyblue;}
 
 ul {
   list-style-type: none;
@@ -34,16 +34,17 @@ p {
 }
 
 .header {
-  background-color: #F1F1F1;
+  background-color: whitesmoke;
   text-align: center;
   padding: 25px;
+  color: lightskyblue;
 }
 
 footer {
-  background-color:lightskyblue;
+  background-color: whitesmoke;
   padding: 12px;
   text-align: center;
-  color: white;
+  color: lightskyblue;
   position: absolute;
   width: 100%;
   left: 1;
