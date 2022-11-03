@@ -1,9 +1,9 @@
 
 body{
-  background-color: whitesmoke;
+  background-color: lightskyblue;
   font-family: "Times New Roman", Times, serif;
   font-size: medium;
-  color: lightskyblue;
+  color: whitesmoke;
 }
 
 
@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: lightblue;
 }
 
 li {
@@ -40,17 +40,17 @@ p {
 }
 
 .header {
-  background-color: lightskyblue;
+  background-color: whitesmoke;
   text-align: center;
   padding: 25px;
-  color: whitesmoke;
+  color: lightskyblue;
 }
 
 footer {
-  background-color: lightskyblue;
+  background-color: whitesmoke;
   padding: 12px;
   text-align: center;
-  color: whitesmoke;
+  color: lightskyblue;
   position: absolute;
   width: 100%;
   left: 1;
