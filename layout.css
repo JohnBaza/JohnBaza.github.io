@@ -1,6 +1,8 @@
 
 body{
-  background-color: lightskyblue;
+  background-color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
 }
 
 
@@ -37,17 +39,17 @@ p {
 }
 
 .header {
-  background-color: whitesmoke;
+  background-color: lightskyblue;
   text-align: center;
   padding: 25px;
-  color: lightskyblue;
+  color: whitesmoke;
 }
 
 footer {
-  background-color: whitesmoke;
+  background-color: lightskyblue;
   padding: 12px;
   text-align: center;
-  color: lightskyblue;
+  color: whitesmoke;
   position: absolute;
   width: 100%;
   left: 1;
