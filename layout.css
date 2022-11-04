@@ -64,6 +64,15 @@ footer {
   font-family: "Times New Roman", Times, serif;
   font-size: large;
   line-height: 1.2em;
+}
+
+.paragraaf2 {
+  padding: 8px;
+  color: lightskyblue;
+  background-color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  line-height: 1.2em;
   width: 60%;
 }
 
