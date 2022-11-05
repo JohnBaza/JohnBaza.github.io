@@ -52,13 +52,25 @@ p {
   color: lightskyblue; /* tekst kleur van header*/
 }
 
-/* footer*/
-footer { 
+/* footer met absolute postitie*/
+.footer { 
   background-color: whitesmoke; /* achtergrond kleur van footer*/
   padding: 12px; /* ruimte rondom de inhoud van een element*/ 
   text-align: center; /* positie van tekst*/
   color: lightskyblue; /* tekst kleur van footer*/
-  position: relative; /* positie van footer*/ 
+  position: absolute; /* positie van footer*/ 
+  width: 100%; /* breedte van footer*/
+  left: 1; /* ruimte naar de linkerkant*/
+  bottom: 0; /* ruimte naar beneden*/
+}
+
+/* footer met relatieve positie*/
+.footer2 { 
+  background-color: whitesmoke; /* achtergrond kleur van footer*/
+  padding: 12px; /* ruimte rondom de inhoud van een element*/ 
+  text-align: center; /* positie van tekst*/
+  color: lightskyblue; /* tekst kleur van footer*/
+  position: absolute; /* positie van footer*/ 
   width: 100%; /* breedte van footer*/
   left: 1; /* ruimte naar de linkerkant*/
   bottom: 0; /* ruimte naar beneden*/
