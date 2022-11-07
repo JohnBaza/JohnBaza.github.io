@@ -9,8 +9,6 @@ body{
 /* hiermee maak je een menu*/
 ul {
   list-style-type: none;
-  margin: 0; /*Margin wordt gebruikt om ruimte te creëren rondom elementen*/
-  padding: 0; /* ruimte rondom de inhoud van een element*/
   overflow: hidden; /* Als de tekst te groot is in de specifieke gebied waarin het zich bevindt zorgt de overflow er voor wat ermee gaat gebeuren.*/
   background-color: lightblue; /* achtergrondkleur van menu */
 }
@@ -61,7 +59,6 @@ p {
   position: absolute; /* positie van footer*/ 
   width: 100%; /* breedte van footer*/
   left: 1; /* ruimte naar de linkerkant*/
-  bottom: 0; /* ruimte naar beneden*/
 }
 
 /* footer met relatieve positie*/
@@ -73,7 +70,6 @@ p {
   position: relative; /* positie van footer*/ 
   width: 100%; /* breedte van footer*/
   left: 1; /* ruimte naar de linkerkant*/
-  bottom: 0; /* ruimte naar beneden*/
 }
 
 /* paragraaf met breedte van 100%*/
