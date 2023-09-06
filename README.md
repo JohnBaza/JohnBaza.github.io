@@ -1,2 +1,2 @@
 # JohnBaza.github.io
-Een website over informatica.
+Een website over informatica gerelateerde onderwerpen.
